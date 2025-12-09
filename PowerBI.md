@@ -1,6 +1,6 @@
 # PowerBI Terorosimus
 
-[Odkaz na soubory](https://www.uschovna.cz/zasilka/TS9YAUELRCZ5RP3B-8VN/)[web:1]
+[Odkaz na stažení](https://www.uschovna.cz/zasilka/TS9YAUELRCZ5RP3B-8VN/)
 
 ---
 
@@ -65,3 +65,4 @@ Kontroluji kontrast barev a myslím na barvoslepé – typicky se vyhýbám komb
 
 ### Pohled laika – testováno na lidech
 Nechal jsem na data nakouknout pár lidí a zhodnotit, co si o tom nezávisle myslí. Reakce byly vesměs pozitivní.
+
