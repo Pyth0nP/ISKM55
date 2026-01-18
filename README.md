@@ -240,7 +240,7 @@ ISKM55_projekt/
 ## 👤 Autor
 
 **Projekt:** ISKM55 - Analýza dopravních nehod v Brně  
-**Autor:** Jiří Pitek (UČO: 584602  
+**Autor:** Jiří Pitek (UČO: 584602)
 **Datum:** Leden 2026  
 **Verze:** 1.0  
 
