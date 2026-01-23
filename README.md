@@ -20,26 +20,35 @@ Komplexní analytický projekt zaměřený na identifikaci kombinací faktorů p
 - **RR = 0,88** (neprůkazné)
 - χ² test: **χ² = 0,04, p = 0,84**
 - **Závěr:** Nelze zamítnout H₀ nezávislosti
+- <img width="292" height="152" alt="image" src="https://github.com/user-attachments/assets/7eb651dd-5be5-4e01-ab4a-c4741d00d61f" />
+
 
 ### 2. **Rychlost na mokré vozovce**
 - **RR = 1,16** (16% vyšší riziko zranění)
 - z-test: **z = 1,98, p = 0,048**
 - **Závěr:** Statisticky významný rozdíl
+- <img width="332" height="126" alt="image" src="https://github.com/user-attachments/assets/e80790bc-6780-4c53-9f82-fbb211b628ec" />
+
 
 ### 3. **Nedodržení vzdálenosti**
 - **RR = 2,55** (2,5× vyšší riziko)
 - z-test: **z = 11,16, p < 0,001**
 - **Závěr:** Vysoce signifikantní
+- <img width="311" height="148" alt="image" src="https://github.com/user-attachments/assets/9bf0296e-097f-4656-85d8-0ac274e5e4a9" />
+
 
 ### 4. **Vliv typu komunikace**
 - ANOVA: **F(3, 74095) = 1631,0, p < 0,001**
 - **Závěr:** Typ komunikace má vliv na škodu
+- <img width="1322" height="272" alt="image" src="https://github.com/user-attachments/assets/8d478da1-6aea-49e8-a796-a8e62a31c4f1" />
+
 
 ### 5. **Alkohol × Noc × Viditelnost**
 - Logistická regrese:
   - **Alkohol:** OR = 1,37, p = 0,09
   - **Noc:** OR = 0,36, p < 0,001
   - **Viditelnost:** OR = 1,40, p = 0,056
+<img width="1412" height="776" alt="image" src="https://github.com/user-attachments/assets/b2288c98-64d0-4fa4-8554-31fe1279420b" />
 
 ---
 
